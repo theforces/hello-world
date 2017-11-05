@@ -1,4 +1,4 @@
-Semnale si programare - proiect
+#Semnale si programare - proiect
 
 
 Aceste este proiectul pentru facultatea ETTI Universitatea Politehnica.
